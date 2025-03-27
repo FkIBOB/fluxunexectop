@@ -1,4 +1,4 @@
-# # ⚡⚡ **FLUXUS EXECUTOR — THE ULTIMATE, MOST POWERFUL, UNDETECTED & FEATURE-PACKED ROBLOX SCRIPT EXECUTOR OF 2025! 🚀 DOMINATE ANY GAME WITH LIGHTNING-FAST INJECTION, ZERO BANS, AND UNLIMITED SCRIPT SUPPORT! 🔥🔥**  
+# ⚡⚡ **FLUXUS EXECUTOR — THE ULTIMATE, MOST POWERFUL, UNDETECTED & FEATURE-PACKED ROBLOX SCRIPT EXECUTOR OF 2025! 🚀 DOMINATE ANY GAME WITH LIGHTNING-FAST INJECTION, ZERO BANS, AND UNLIMITED SCRIPT SUPPORT! 🔥🔥**  
 
 
 🚀 **Fluxus Executor** is one of the most advanced and powerful script executors for **Roblox**. Whether you're looking for **high-speed script execution, full compatibility with all Lua scripts, or a seamless anti-ban experience**, Fluxus is your ultimate solution.  
